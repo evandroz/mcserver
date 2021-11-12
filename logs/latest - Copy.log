@@ -1,0 +1,77 @@
+[13:44:36] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:44:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:44:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:44:36] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:44:36] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:44:36] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:44:36] [main/INFO]: Reloading ResourceManager: Default
+[13:44:37] [Worker-Main-12/INFO]: Loaded 7 recipes
+[13:44:37] [Worker-Main-12/INFO]: Loaded 1137 advancements
+[13:44:38] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[13:44:38] [Server thread/INFO]: Loading properties
+[13:44:38] [Server thread/INFO]: Default game type: SURVIVAL
+[13:44:38] [Server thread/INFO]: Generating keypair
+[13:44:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:44:38] [Server thread/INFO]: Using default channel type
+[13:44:39] [Server thread/INFO]: Preparing level "world"
+[13:44:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:44:39] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[13:44:39] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[13:44:40] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[13:44:40] [Worker-Main-11/INFO]: Preparing spawn area: 3%
+[13:44:41] [Worker-Main-10/INFO]: Preparing spawn area: 5%
+[13:44:41] [Worker-Main-9/INFO]: Preparing spawn area: 38%
+[13:44:44] [Worker-Main-13/INFO]: Preparing spawn area: 73%
+[13:44:44] [Worker-Main-13/INFO]: Preparing spawn area: 73%
+[13:44:44] [Worker-Main-13/INFO]: Preparing spawn area: 73%
+[13:44:44] [Worker-Main-13/INFO]: Preparing spawn area: 73%
+[13:44:44] [Worker-Main-11/INFO]: Preparing spawn area: 73%
+[13:44:44] [Server thread/INFO]: Time elapsed: 5311 ms
+[13:44:44] [Server thread/INFO]: Done (5.398s)! For help, type "help"
+[13:45:09] [User Authenticator #1/INFO]: UUID of player EeveeToxic is b7e3c3e2-7852-48b4-a761-3f3f564f6b36
+[13:45:09] [Server thread/INFO]: EeveeToxic[/192.168.1.118:61177] logged in with entity id 175 at (5.374058547131816, 63.0, -246.01905767447664)
+[13:45:09] [Server thread/INFO]: EeveeToxic joined the game
+[13:47:06] [User Authenticator #2/INFO]: UUID of player Kaiway_Robbery is bb74024f-7f66-48ff-8d63-6396f1f7c61c
+[13:47:06] [Server thread/INFO]: Kaiway_Robbery[/192.168.1.1:51962] logged in with entity id 352 at (-10.300000011920929, 63.0, -247.46140113483153)
+[13:47:06] [Server thread/INFO]: Kaiway_Robbery joined the game
+[14:07:30] [Server thread/INFO]: EeveeToxic has made the advancement [Sweet Dreams]
+[14:15:16] [User Authenticator #3/INFO]: UUID of player fentr0py is 9d9add39-587e-46e4-aab1-56952b20184d
+[14:15:16] [Server thread/INFO]: fentr0py[/192.168.1.254:57688] logged in with entity id 9846 at (8.5, 66.0, -261.5)
+[14:15:16] [Server thread/INFO]: fentr0py joined the game
+[14:25:11] [Server thread/INFO]: EeveeToxic was slain by Spider
+[14:29:42] [Server thread/INFO]: fentr0py has made the advancement [Isn't It Iron Pick]
+[14:32:18] [Server thread/INFO]: fentr0py has made the advancement [Stone Age]
+[14:36:10] [Server thread/INFO]: fentr0py has made the advancement [Monster Hunter]
+[14:41:42] [Server thread/INFO]: EeveeToxic was slain by Zombie
+[14:44:39] [Server thread/INFO]: EeveeToxic was shot by Skeleton
+[15:02:47] [Server thread/INFO]: fentr0py was blown up by Creeper
+[15:05:56] [Server thread/INFO]: Kaiway_Robbery has made the advancement [What a Deal!]
+[15:08:29] [Server thread/INFO]: Villager bjr['Villager'/33683, l='ServerLevel[world]', x=50.50, y=68.00, z=-906.87] died, message: 'Villager was slain by Kaiway_Robbery'
+[15:08:39] [Server thread/INFO]: Villager bjr['Villager'/33681, l='ServerLevel[world]', x=54.52, y=70.00, z=-899.35] died, message: 'Villager was slain by EeveeToxic'
+[15:09:08] [Server thread/INFO]: Villager bjr['Farmer'/33682, l='ServerLevel[world]', x=42.70, y=64.00, z=-885.30] died, message: 'Farmer was slain by Kaiway_Robbery'
+[15:24:33] [Server thread/INFO]: fentr0py was slain by Zombie
+[15:30:03] [Server thread/INFO]: fentr0py has made the advancement [Acquire Hardware]
+[15:33:04] [Server thread/INFO]: fentr0py has made the advancement [Suit Up]
+[15:33:46] [Server thread/INFO]: EeveeToxic has made the advancement [A Seedy Place]
+[15:46:15] [Server thread/INFO]: fentr0py was shot by Skeleton
+[15:52:40] [Server thread/INFO]: Villager bjr['Nitwit'/63792, l='ServerLevel[world]', x=1188.62, y=64.00, z=-2235.17] died, message: 'Nitwit was slain by Kaiway_Robbery'
+[15:55:55] [Server thread/INFO]: Kaiway_Robbery was slain by Iron Golem
+[16:15:45] [Server thread/INFO]: fentr0py burned to death
+[16:16:05] [Server thread/INFO]: fentr0py has made the advancement [Getting an Upgrade]
+[16:17:43] [Server thread/INFO]: Villager bjr['Villager'/77052, l='ServerLevel[world]', x=1206.58, y=63.00, z=-2234.50] died, message: 'Villager was burnt to a crisp whilst fighting Kaiway_Robbery'
+[16:59:09] [Server thread/INFO]: fentr0py has made the advancement [Enchanter]
+[17:00:17] [Server thread/INFO]: fentr0py has made the advancement [Sweet Dreams]
+[17:23:55] [Server thread/INFO]: fentr0py fell from a high place
+[17:44:08] [Server thread/INFO]: fentr0py was blown up by Creeper
+[17:48:03] [Server thread/INFO]: EeveeToxic burned to death
+[17:58:21] [Server thread/INFO]: fentr0py was slain by Spider
+[18:03:04] [Server thread/INFO]: Kaiway_Robbery was killed by Witch using magic
+[18:03:26] [Server thread/INFO]: Kaiway_Robbery was shot by Skeleton
+[18:26:12] [Server thread/INFO]: fentr0py lost connection: Disconnected
+[18:26:12] [Server thread/INFO]: fentr0py left the game
+[19:01:43] [Server thread/INFO]: EeveeToxic has made the advancement [Hot Stuff]
+[19:18:04] [Server thread/INFO]: Kaiway_Robbery lost connection: Timed out
+[19:18:04] [Server thread/INFO]: Kaiway_Robbery left the game
+[19:19:48] [User Authenticator #4/INFO]: UUID of player Kaiway_Robbery is bb74024f-7f66-48ff-8d63-6396f1f7c61c
+[19:19:48] [Server thread/INFO]: Kaiway_Robbery[/192.168.1.1:53852] logged in with entity id 135080 at (2.103761195881391, 63.0, -242.458030664727)
+[19:19:48] [Server thread/INFO]: Kaiway_Robbery joined the game
